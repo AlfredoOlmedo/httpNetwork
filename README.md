@@ -1,3 +1,5 @@
-# webcrawlerhttp
-Project for the learn HTTP Network course
+# SEO link analyzer
 
+Javascript
+Node
+Jest
